@@ -77,7 +77,7 @@ function Projects() {
                   <br/>
                   <i>Advised by Dr. Vanita Jain</i>
                 </Card.Text>
-                <Button variant="primary" href={"playstore"} target="_blank" style={{ position:"absolute",
+                <Button variant="primary" href={"https://play.google.com/store/apps/details?id=com.MinimalistOrnate.SpacedOut"} target="_blank" style={{ position:"absolute",
                                                                              marginLeft:"-100px",
                                                                              left:"50%",
                                                                              width:"200px",

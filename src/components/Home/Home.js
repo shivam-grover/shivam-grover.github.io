@@ -40,7 +40,7 @@ function Home() {
               </div>
             </Col>
 
-            <Col md={5} style={{ paddingBottom: 20, margin: "10px 0 0 0" }}>
+            <Col md={5} style={{ margin: "20px 0 0 0" }}>
               <img
                 src={homeLogo}
                 alt="home pic"
