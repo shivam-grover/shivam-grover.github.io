@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.88c14de0.css",
-    "main.js": "/static/js/main.65910357.js",
+    "main.js": "/static/js/main.0dec0d5e.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/SimultaneousPoseandAppearancestransfer.gif": "/static/media/SimultaneousPoseandAppearancestransfer.fdfcca116ecebe3b788e.gif",
@@ -17,7 +17,7 @@
     "static/media/SIH Hardware.jpg": "/static/media/SIH Hardware.d902f572ab175b661894.jpg",
     "static/media/Eyantra.jpeg": "/static/media/Eyantra.e87eee7a77383afa1399.jpeg",
     "static/media/SIH Software.jpg": "/static/media/SIH Software.d44ccb1bc3f040893879.jpg",
-    "static/media/Shivam_CV.pdf": "/static/media/Shivam_CV.2535f1492e8a79254e86.pdf",
+    "static/media/Shivam_CV_02122022.pdf": "/static/media/Shivam_CV_02122022.9b80f0259fe6ed83c5b3.pdf",
     "static/media/SIH Software.png": "/static/media/SIH Software.251eeecdacd9861a46c8.png",
     "static/media/VisionAir.png": "/static/media/VisionAir.c3084c3fa6849ee597b2.png",
     "static/media/EgocentricToMesh.png": "/static/media/EgocentricToMesh.cfdc19e5f044237c394e.png",
@@ -25,12 +25,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.88c14de0.css.map": "/static/css/main.88c14de0.css.map",
-    "main.65910357.js.map": "/static/js/main.65910357.js.map",
+    "main.0dec0d5e.js.map": "/static/js/main.0dec0d5e.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88c14de0.css",
-    "static/js/main.65910357.js"
+    "static/js/main.0dec0d5e.js"
   ]
 }
