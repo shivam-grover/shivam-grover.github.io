@@ -7,6 +7,7 @@ import SIH_Hardware from "../../Assets/Awards/SIH Hardware.jpg";
 import Celestini from "../../Assets/Awards/PaulBaransCelestiniProject.JPG";
 import SIHSW from "../../Assets/Awards/SIH Software.jpg";
 import EYantra from "../../Assets/Awards/Eyantra.jpeg";
+import pdf from "../../Assets/../Assets/Shivam_CV_02122022.pdf";
 
 function Awards() {
   return (
@@ -77,7 +78,7 @@ function Awards() {
               title="Other Awards"
               description=""
               list = {["Runner’s up, ML Sprint BVP", "Winner HackBVP 2.0", "Runner’s up, Build For India -Paytm Ideathon Awarded by the Vice President of Paytm", "Winner, NIEC Hackathon"]}
-              link="/resume"
+              link={pdf}
             />
           </Col>
         </Row>

@@ -15,6 +15,7 @@ import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import pdf from "./Assets/../Assets/Shivam_CV_02122022.pdf";
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -37,7 +38,7 @@ function App() {
           <Route path="/" exact element={<Home />} />
           <Route path="/award" exact element={<Awards />} />
           <Route path="/project" exact element={<Projects />} />
-          <Route path="/resume" exact element={<Resume />} />
+          <Route path={pdf} exact element={<Resume />} />
           <Route path="*" element={<Home />} />
         </Routes>
         <Footer />

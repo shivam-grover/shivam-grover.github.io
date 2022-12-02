@@ -10,6 +10,7 @@ import {
 import { CgFileDocument } from "react-icons/cg";
 import { FaLinkedinIn, FaEnvelope } from "react-icons/fa";
 import GitHubCalendar from "react-github-calendar";
+import pdf from "../../Assets/../Assets/Shivam_CV_02122022.pdf";
 
 function Home2() {
   return (
@@ -56,7 +57,7 @@ function Home2() {
                 
                 <li className="social-icons">
                   <a
-                    href="/resume"
+                    href={pdf}
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-resume-button"
