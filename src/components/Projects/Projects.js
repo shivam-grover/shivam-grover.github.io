@@ -49,13 +49,15 @@ function Projects() {
                   A rythm game built with Unity and C#. Used fast fourier transform to sync audio with the obstacles and objects in real time.
                 </Card.Text>
                 <div style={{ position:"absolute",
-                             marginLeft:"40px",
+                             marginLeft:"80px",
                              bottom:"10px" }}>
-                  <Button variant="primary" href={"playstore"} target="_blank">
+                  {/* <Button variant="primary" href={"playstore"} target="_blank">
                     <BiLinkExternal /> &nbsp;
                     {"View Project"}
-                  </Button>
-                  <Button variant="primary" href={"playstore"} target="_blank" style={{ margin:"0 0 0 10px"}}>
+                  </Button> */}
+                  <Button variant="primary" href={"https://play.google.com/store/apps/details?id=com.MinimalistOrnate.SpacedOut"} target="_blank" style={{
+                                                                             width:"200px",
+                                                                             bottom:"10px" }}>
                     <AiFillAndroid /> &nbsp;
                     {"Play Store"}
                   </Button>
@@ -77,13 +79,13 @@ function Projects() {
                   <br/>
                   <i>Advised by Dr. Vanita Jain</i>
                 </Card.Text>
-                <Button variant="primary" href={"https://play.google.com/store/apps/details?id=com.MinimalistOrnate.SpacedOut"} target="_blank" style={{ position:"absolute",
+                <Button variant="primary" href={"https://www.hindawi.com/journals/wcmc/2021/7479473/"} target="_blank" style={{ position:"absolute",
                                                                              marginLeft:"-100px",
                                                                              left:"50%",
                                                                              width:"200px",
                                                                              bottom:"10px" }}>
                   <BiLinkExternal /> &nbsp;
-                  {"View Project"}
+                  {"View Paper"}
                 </Button>
               </Card.Body>
             </Card>
@@ -102,7 +104,7 @@ function Projects() {
                   <br/><br/>
                   <i>Advised by <a href="https://sites.google.com/site/koteswarraojerripothula/" target="_blank">Dr. Koteswar Rao Jerripothula</a></i>
                 </Card.Text>
-                <Button variant="primary" href={"playstore"} target="_blank" style={{ position:"absolute",
+                <Button variant="primary" href={"https://sites.google.com/view/shivamgrover/project/PATGAN"} target="_blank" style={{ position:"absolute",
                                                                              marginLeft:"-100px",
                                                                              left:"50%",
                                                                              width:"200px",
@@ -116,7 +118,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <Card className="project-card-view">
-              <Card.Img variant="top" src={egocentric} alt="card-img" />
+              <Card.Img href={"https://sites.google.com/view/shivamgrover/project/3DRECON"} target="_blank" variant="top" src={egocentric} alt="card-img" />
               <Card.Body style={{ marginBottom: "28px" }}>
                 <Card.Title>3D reconstruction from egocentric cameras</Card.Title>
                 <Card.Text style={{ textAlign: "justify" }}>
@@ -124,7 +126,7 @@ function Projects() {
                   <br/><br/>
                   <i>Advised by Dr. Vanita Jain</i>
                 </Card.Text>
-                <Button variant="primary" href={"playstore"} target="_blank" style={{ position:"absolute",
+                <Button variant="primary" href={"https://sites.google.com/view/shivamgrover/project/3DRECON"} target="_blank" style={{ position:"absolute",
                                                                              marginLeft:"-100px",
                                                                              left:"50%",
                                                                              width:"200px",
@@ -148,7 +150,7 @@ function Projects() {
                   <br/><br/>
                   <i>Advised by <a href="https://achowdhery.github.io/achowdhery-website/index.html" target="_blank">Dr. Aakanksha Chowdhery</a> (Google Brain, Tensorflow) and <a href="https://ee.iitd.ac.in/people/brijeshlall.html" target="_blank">Dr. Brejesh Lal</a> (IIT Delhi)</i>
                 </Card.Text>
-                <Button variant="primary" href={"playstore"} target="_blank" style={{ position:"absolute",
+                <Button variant="primary" href={"https://sites.google.com/view/shivamgrover/project/Visionair"} target="_blank" style={{ position:"absolute",
                                                                              marginLeft:"-100px",
                                                                              left:"50%",
                                                                              width:"200px",
@@ -170,7 +172,7 @@ function Projects() {
                   <br/><br/>
                   <i>First Prize in e-Yantra 2018 @ IIT Bombay</i>
                 </Card.Text>
-                <Button variant="primary" href={"playstore"} target="_blank" style={{ position:"absolute",
+                <Button variant="primary" href={"https://sites.google.com/view/shivamgrover/awards/e-yantra-2018"} target="_blank" style={{ position:"absolute",
                                                                              marginLeft:"-100px",
                                                                              left:"50%",
                                                                              width:"200px",
@@ -192,7 +194,7 @@ function Projects() {
                   <br/><br/>
                   <i>First Prize in SIH 2018 Hardware Edition</i>
                 </Card.Text>
-                <Button variant="primary" href={"playstore"} target="_blank" style={{ position:"absolute",
+                <Button variant="primary" href={"https://sites.google.com/view/shivamgrover/awards/smart-india-hackathon-hardware-edition-2018"} target="_blank" style={{ position:"absolute",
                                                                              marginLeft:"-100px",
                                                                              left:"50%",
                                                                              width:"200px",
@@ -214,7 +216,7 @@ function Projects() {
                   <br/><br/>
                   <i>First Prize in SIH 2018 Software Edition</i>
                 </Card.Text>
-                <Button variant="primary" href={"playstore"} target="_blank" style={{ position:"absolute",
+                <Button variant="primary" href={"https://github.com/shivam-grover/EazyCharge"} target="_blank" style={{ position:"absolute",
                                                                              marginLeft:"-100px",
                                                                              left:"50%",
                                                                              width:"200px",

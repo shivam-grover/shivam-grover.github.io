@@ -77,6 +77,7 @@ function Awards() {
               title="Other Awards"
               description=""
               list = {["Runner’s up, ML Sprint BVP", "Winner HackBVP 2.0", "Runner’s up, Build For India -Paytm Ideathon Awarded by the Vice President of Paytm", "Winner, NIEC Hackathon"]}
+              link="/resume"
             />
           </Col>
         </Row>
