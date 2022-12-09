@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.88c14de0.css",
-    "main.js": "/static/js/main.e75c4838.js",
+    "main.js": "/static/js/main.dc780dda.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/SimultaneousPoseandAppearancestransfer.gif": "/static/media/SimultaneousPoseandAppearancestransfer.fdfcca116ecebe3b788e.gif",
     "static/media/Eyantra.gif": "/static/media/Eyantra.74752f513d86fe8ed7f8.gif",
+    "static/media/Spaced Out Space Race.gif": "/static/media/Spaced Out Space Race.02e9a1fe1cf06d8a208e.gif",
     "static/media/SimultaneousPoseandAppearancestransfer5.gif": "/static/media/SimultaneousPoseandAppearancestransfer5.f6bf750b55ef5b708dc4.gif",
     "static/media/SimultaneousPoseandAppearancestransfer4.gif": "/static/media/SimultaneousPoseandAppearancestransfer4.0a0381e7f301d340618f.gif",
     "static/media/SimultaneousPoseandAppearancestransfer2.gif": "/static/media/SimultaneousPoseandAppearancestransfer2.64efff2c4527eba426dd.gif",
     "static/media/profile-7.png": "/static/media/profile-7.db81ec3e71eb771b5e0c.png",
     "static/media/BirdsEye.gif": "/static/media/BirdsEye.2e110c8b95772def2de7.gif",
-    "static/media/SpacedOut.png": "/static/media/SpacedOut.b0fc6f7120f6c758391d.png",
     "static/media/SgIH1.jpg": "/static/media/SgIH1.8d2072bf28a1923eb588.jpg",
     "static/media/PaulBaransCelestiniProject.JPG": "/static/media/PaulBaransCelestiniProject.7bbe0408a3b5d5df77eb.JPG",
     "static/media/SIH Hardware.jpg": "/static/media/SIH Hardware.d902f572ab175b661894.jpg",
@@ -25,12 +25,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.88c14de0.css.map": "/static/css/main.88c14de0.css.map",
-    "main.e75c4838.js.map": "/static/js/main.e75c4838.js.map",
+    "main.dc780dda.js.map": "/static/js/main.dc780dda.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88c14de0.css",
-    "static/js/main.e75c4838.js"
+    "static/js/main.dc780dda.js"
   ]
 }
