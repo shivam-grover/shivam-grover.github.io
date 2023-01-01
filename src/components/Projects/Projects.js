@@ -20,7 +20,7 @@ import PoseTransfer4 from "../../Assets/Projects/SimultaneousPoseandAppearancest
 import SIHSW from "../../Assets/Projects/SIH Software.png";
 import VisionAir from "../../Assets/Projects/VisionAir.png";
 import BirdsEye from "../../Assets/Projects/BirdsEye.gif";
-import SpacedOut from "../../Assets/Projects/SpacedOut.png";
+import SpacedOut from "../../Assets/Projects/Spaced Out Space Race.gif";
 
 
 
