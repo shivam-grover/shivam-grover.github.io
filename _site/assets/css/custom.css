@@ -257,3 +257,8 @@ canvas {
     height: 120px;
     filter: drop-shadow(8px 8px 1px rgba(0, 0, 0, 0.3));
 }
+
+#search-trigger,
+#search {
+    display: none;
+}
