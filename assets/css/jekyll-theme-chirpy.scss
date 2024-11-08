@@ -1,0 +1,33 @@
+--- --- @import 'main
+ {
+  %- if jekyll.environment=='production' -%
+}
+
+.bundle {
+  %- endif -%
+}
+
+';
+
+
+/* append your custom style below */
+#sidebar #avatar {
+  display: block;
+  width: 10rem !important;
+  height: 10rem !important;
+  overflow: hidden;
+  box-shadow: var(--avatar-border-color) 0 0 0 2px;
+  transform: translateZ(0)
+}
+
+#sidebar #avatar img {
+  transition: transform .5s
+}
+
+#sidebar #avatar img:hover {
+  transform: scale(1.05) !important;
+}
+
+body {
+  background-color: blue !important;
+}
