@@ -31,3 +31,10 @@
 body {
   background-color: blue !important;
 }
+
+
+@media all and (max-width: 849px) {
+  h1.dynamic-title {
+    display: block !important;
+  }
+}
