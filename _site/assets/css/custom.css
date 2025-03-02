@@ -68,6 +68,11 @@
 
 .publication-image-container .preview-img {
     overflow: visible;
+    background: white;
+}
+
+.preview-img:not(.no-bg) {
+    background: white;
 }
 
 /* Publication details layout */
